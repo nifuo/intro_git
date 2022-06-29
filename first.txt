@@ -3,3 +3,4 @@ Git practice
 Add command
 Commit command
 Rm command
+Git rm file_name
