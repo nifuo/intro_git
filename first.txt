@@ -1,0 +1,5 @@
+Git practice
+
+Add command
+Commit command
+Rm command
