@@ -4,3 +4,6 @@ Add command
 Commit command
 Rm command
 Git rm file_name
+Git status
+
+Japanese(日本語)
