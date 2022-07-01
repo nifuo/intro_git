@@ -5,5 +5,6 @@ Commit command
 Rm command
 Git rm file_name
 Git status
+Git diff
 
 Japanese(日本語)
